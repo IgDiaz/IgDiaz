@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IgDiaz
+- 👀 I’m interested in Python, remote sensing and data engineering/analysis.
+- 🌱 I’m currently learning more about using R for bigdata insights.
+- 💞️ I’m looking to collaborate on remote sensing data analysis projects using different satellite constellations to create a project for water level prediction for agriculture and new real estate developments.
+- 📫 You can reach me through my Email ig.diaz@hotmail.com
